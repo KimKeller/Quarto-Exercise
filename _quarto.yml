@@ -1,0 +1,3 @@
+project: 
+  title: "Test Quarto"
+  output-dir: docs/
